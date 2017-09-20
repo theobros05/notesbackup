@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/A new selenium jars/xmlbeans-2.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
